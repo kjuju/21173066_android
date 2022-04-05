@@ -8,7 +8,7 @@
 <img width="" height="" src="./pic/3주차과제_전화걸.PNG"></img>
 
 ## 5주차 과제
-<img width="" height="" src="./pic/5주차과제_1.png"></img>
-<img width="" height="" src="./pic/5주차과제_2.png"></img>
-<img width="" height="" src="./pic/5주차과제_3.png"></img>
-<img width="" height="" src="./pic/5주차과제_4.png"></img>
+<img width="" height="" src="./pic/5주차과제_1.png.PNG"></img>
+<img width="" height="" src="./pic/5주차과제_2.png.PNG"></img>
+<img width="" height="" src="./pic/5주차과제_3.png.PNG"></img>
+<img width="" height="" src="./pic/5주차과제_4.png.PNG"></img>
