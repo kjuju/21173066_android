@@ -12,3 +12,7 @@
 <img width="" height="" src="./pic/5주차과제2.png"></img>
 <img width="" height="" src="./pic/5주차과제3.png"></img>
 <img width="" height="" src="./pic/5주차과제4.png"></img>
+
+## 6주차과제
+<img width="" height="" src="./pic/6st_1.png"></img>
+<img width="" height="" src="./pic/6st_2.png"></img>
